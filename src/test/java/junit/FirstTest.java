@@ -8,7 +8,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$x;
 import static com.codeborne.selenide.Selenide.open;
 
-public class FisrtTest {
+public class FirstTest {
 
     @BeforeAll
     static void beforeAll() {
